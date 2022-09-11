@@ -43,3 +43,28 @@ ___
 DENDRAL adalah proyek penelitian komputer berpengaruh awal dalam pengembangan sistem AI modern. Ini membantu mengalihkan fokus penelitian AI dari mengembangkan kecerdasan umum ke menciptakan sistem yang disesuaikan untuk area tertentu. Itu dilakukan dengan mewakili pengetahuan para ahli kimia dengan cara yang dapat digunakan oleh komputer, memungkinkan sistem kode dan data untuk memecahkan masalah kimia yang didefinisikan secara sempit dan menarik kesimpulan dengan cara yang sama seperti yang mungkin dilakukan oleh seorang ahli manusia, sehingga menghasilkannya beri nama "sistem pakar".
 
 DENDRAL dimulai pada tahun 1965, ketika ahli genetika Joshua Lederberg sedang mencari platform penelitian berbasis komputer untuk memajukan pemahamannya tentang senyawa organik untuk mendukung penelitian eksobiologinya cabang astrobiologi yang berupaya memahami evolusi kehidupan di planet lain. Lederberg meminta kemitraan asisten profesor Stanford Edward Feigenbaum, salah satu pendiri departemen ilmu komputer sekolah, ahli kimia Stanford Carl Djerassi, dan programmer AI virtuoso Bruce Buchanan untuk mengembangkan sistem yang dapat menyarankan struktur kimia dan spektrum massa yang mungkin terdiri dari mereka. Proyek ini berlangsung selama kurang lebih 15 tahun, mengembangkan program yang dirancang untuk memodelkan penalaran ilmiah dan menjelaskan kimia eksperimental ke dalam sistem yang dapat digunakan ahli kimia untuk menghasilkan hipotesis dan, pada akhirnya, untuk mempelajari hal-hal baru tentang kimia.
+
+### __1965 ELIZA__
+#### __Joseph Weizenbaum__ (1923–2008)
+___
+
+ELIZA, dinamai sesuai karakter Eliza Doolittle dalam drama Pygmalion karya George Bernard Shaw, adalah program pertama yang dapat berkomunikasi dalam bahasa Inggris. Dibutuhkan sebaris teks yang diketik manusia pada teleprinter, mengubah teks—misalnya, mengubah Anda menjadi saya dan saya menjadi Anda—dan kemudian mengirim kembali teks tersebut ke juru ketik manusia. Sama seperti burung beo, komputer tidak tahu apa yang dikatakannya.
+
+Profesor MIT Joseph Weizenbaum memodelkan "program analisis bahasa" pada psikoterapi Rogerian, sejenis terapi nondirektif yang tidak melibatkan interpretasi pernyataan klien. Mengikuti teknik ini, ELIZA mengubah "Saya tidak bahagia" menjadi "APAKAH ANDA BERPIKIR DATANG KE SINI AKAN MEMBANTU ANDA TIDAK BAHAGIA?" Sebagian besar transformasi ini dipicu oleh kata kunci sederhana; ketika program terhenti, itu menampilkan pertanyaan yang telah diprogram.
+
+### __1965 Touchscreen__
+#### __E. A. Johnson__ (dates unavailable), __Dr. Sam Hurst__ (1927–2010), __Nimish Mehta__ (dates unavailable)
+___
+
+Pada tahun 1955, proyek MIT Whirlwind menciptakan pena ringan yang memungkinkan pengguna menunjukkan titik di layar komputer. Tapi bisa menunjuk lebih alami dengan jari Anda sendiri? Itulah penemuan E. A. Johnson di Royal Radar Establishment (RRE).
+
+Johnson adalah seorang peneliti yang bekerja pada sistem kontrol lalu lintas udara RRE. Pada tahun 1965, ia menerbitkan sebuah artikel di Electronic Letters berjudul “Touch Display—A Novel Input/Output Device for Computers” yang menggambarkan layar yang peka terhadap sentuhan. Dua tahun kemudian, ia memperluas gagasannya dalam sebuah artikel di Ergonomics, menunjukkan bagaimana layar sentuh dapat digunakan untuk berinteraksi dengan grafik dan gambar.
+
+Johnson menemukan apa yang sekarang disebut layar sentuh kapasitif. Ini menggunakan lapisan di layar untuk menyimpan muatan listrik. Saat pengguna menyentuh layar, sebagian muatan ditransfer ke pengguna. Ini mengirimkan sinyal ke sistem operasi perangkat tempat sentuhan terjadi di layar.
+
+Layar sentuh awal hanya dapat merasakan satu sentuhan pada satu waktu. Nimish Mehta mengembangkan perangkat multitouch pertama di University of Toronto pada tahun 1982. Teknologi terus berkembang seiring dengan potensi aplikasi komersial, akhirnya mencapai massa di tahun 2000-an. Selama periode ini, itu menjadi alat yang populer untuk kolaborasi desain.
+
+![Touchscreen](res/TouchScreen.png)
+
+*Layar sentuh mulai digunakan dengan banyak aplikasi. Digambarkan di sini adalah operator yang menggunakan layar sentuh pada sistem pendidikan berbasis komputer bersama PLATO (Programmed Logic Automated Teaching Operation).*
+
