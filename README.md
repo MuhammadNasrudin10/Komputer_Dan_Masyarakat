@@ -99,3 +99,34 @@ ___
 Tidak ada satu pun penemu mesin anjungan tunai mandiri (ATM), meskipun sudah banyak orang yang mencoba mengklaimnya. Sebaliknya, itu adalah hasil dari serangkaian inovasi oleh banyak orang selama bertahun-tahun, yang mengarah pada peluncuran penting tahun 1967 dari dua mesin yang bersaing tetapi berbeda di Inggris yang diperkenalkan dalam waktu satu bulan satu sama lain.
 
 Mesin James Goodfellow, yang diperkenalkan oleh Westminster Bank di London, menggunakan kartu plastik dan nomor identifikasi pribadi (PIN) untuk verifikasi dan akses pelanggan. Mesin John Shepherd-Barron, yang diperkenalkan oleh Barclays, menggunakan pemeriksaan radioaktif ringan yang diresapi dengan karbon-14 yang diandalkan ATM untuk dicocokkan dengan nomor identifikasi pelanggan. Sementara mesin Shepherd-Barron mengalahkan Goodfellow ke pasar sebulan (dan dengan demikian menerima banyak kemuliaan "pertama"), itu adalah desain PIN Goodfellow yang macet dan akhirnya melihat komersialisasi dan lisensi massal oleh produsen. Dia juga memiliki paten pertama untuk ATM yang menggunakan PIN untuk otentikasi.
+
+### __1967 Head-Mounted Display__
+#### __Ivan E. Sutherland__ (b.1938)
+___
+Head-Mounted Display (HMD) adalah tampilan  video imersif awal dan yang pertama menggunakan komputer alih-alih kamera untuk mensimulasikan ruang fisik. Ini terdiri dari enam bagian: komputer serba guna, pengganda matriks, generator vektor, elektronik khusus yang disebut pembagi kliping yang menghilangkan garis-garis yang tersembunyi di belakang pengamat atau di luar bidang pandang, headset, dan sensor posisi kepala. 
+
+Ada layar di depan mata yang menyajikan gambar yang sedikit berbeda untuk setiap mata, yang menghasilkan rasa kedalaman. Sensor memberi tahu komputer saat Anda menggerakkan kepala, dan komputer memperbarui layar sesuai dengan itu.
+
+![Ivan Sutherland HMD](res/Ivan-Sutherland.jpg)
+
+*Layar yang dipasang di kepala Ivan Sutherland memungkinkan seseorang untuk mengubah arah pandangan mereka dan bahkan bergerak di sekitar ruangan; ketika orang tersebut bergerak, setiap tampilan mata diperbarui sesuai.*
+
+### __1967 Programming for Children__
+#### __Seymour Papert__ (1928-2016) __,Wally Feurzeig__ (1927-2013) __, Cyntia Solomon__ (dates unavailable)
+___
+Seymour Papert, Wally Feurzeig, dan Cynthia Solomon berpikir bahwa pemrograman bisa menjadi alat yang ampuh untuk mengajar anak-anak tentang berpikir, merencanakan, dan berpikir abstrak. Jadi saat bekerja di perusahaan riset Bolt, Beranek, dan Newman (sekarang BBN Technologies®) di Cambridge, Massachusetts, mereka merancang bahasa komputer untuk anak-anak, dengan beberapa perintah yang dapat digabungkan untuk memungkinkan tugas-tugas kompleks. Pemrograman dalam bahasa ini, yang disebut **Logo**, memungkinkan anak-anak membuat instruksi untuk komputer sedemikian rupa sehingga mereka dapat merangkai banyak kata sederhana untuk menyampaikan pemikiran yang rumit. Beberapa program awal yang ditulis anak-anak adalah kuis matematika dan chatbot.
+
+Meskipun program dalam versi awal Logo tidak lebih dari berkomunikasi dengan pengguna melalui teks, penemu segera memungkinkan mesin untuk mengontrol robot mekanik yang disebut **turtle**, yang dapat diinstruksikan oleh program untuk bergerak maju, mundur, atau belok. Penyu asli adalah robot bernama Irving; itu merangkak di selembar kertas sebagai tanggapan atas perintah dari mesin di dekatnya. Irving memiliki pena yang bisa dijatuhkan dan diseret untuk membuat gambar. Akhirnya, Irving menjadi kura-kura virtual di layar komputer, memungkinkan untuk berbagi Logo dengan lebih banyak orang.
+
+### __1967 The Mouse__
+#### __Douglas C. Engelbart__ (1925-2013) __,Bill English__ (dates unavailable) 
+___
+
+Asal-usul awal mouse dapat dilihat di bola roller Ralph Benjamin, diakui sebagai asal trackball modern. Tidak seperti trackball, yang tidak bergerak dan mengharuskan pengguna untuk menggerakkan tangan dan jari di atasnya, mouse mengharuskan seluruh perangkat diposisikan ulang.
+
+Mouse Engelbart terdiri dari kotak kayu dengan tiga tombol di atas dan dua roda di bawah yang diposisikan pada sudut kanan untuk mengontrol gerakan horizontal dan vertikal. Saat roda berputar, jarak dan lokasi ditangkap sebagai kode biner di komputer, yang diterjemahkan ke dalam output visual di layar. Engelbart menemukan mouse untuk mengontrol navigasi pada sistem kolaborasi komputer inovatif yang ia rancang yang disebut **oN-Line System (NLS).**
+
+![Prototipe mouse Engelbart](res/prototipe-mouse-Engelbart.jpg)
+
+*Replika prototipe mouse Engelbart, dibuat oleh insinyur Bill English, 1964*
+
