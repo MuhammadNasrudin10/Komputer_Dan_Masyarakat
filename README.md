@@ -68,3 +68,34 @@ Layar sentuh awal hanya dapat merasakan satu sentuhan pada satu waktu. Nimish Me
 
 *Layar sentuh mulai digunakan dengan banyak aplikasi. Digambarkan di sini adalah operator yang menggunakan layar sentuh pada sistem pendidikan berbasis komputer bersama PLATO (Programmed Logic Automated Teaching Operation).*
 
+### __1966 Star Trek Premieres__
+#### __Gene Roddenberry__ (1921–1991), __William Shatner__ (b. 1931), __Leonard Nimoy__ (1931–2015), __Nichelle Nichols__ (b. 1932)
+___
+
+Pada tanggal 8 September 1966, National Broadcasting Company (NBC®) menayangkan perdana Star Trek, sebuah acara televisi fiksi ilmiah baru oleh Gene Roddenberry. Acara ini berlangsung dari tahun 1966 hingga 1969 dan akan tumbuh menjadi waralaba fiksi ilmiah paling berpengaruh dalam sejarah, yang pada akhirnya menghasilkan 7 acara TV yang berbeda, 13 film, dan lebih banyak kontribusi untuk budaya populer  “Beam me up, Scotty!” daripada yang bisa diukur secara akurat. Pada saat perang dan ketakutan akan teknologi yang tidak terkendali menjadi ketakutan sehari-hari, Star Trek memamerkan visi masa depan alternatif di mana umat manusia telah berevolusi dan mengatasi kemiskinan dan kebutuhan material, memanfaatkan teknologi untuk mengatasi berbagai tantangan.
+
+Komputer dan robot memainkan peran penting dalam banyak episode Star Trek. Enterprise dilengkapi dengan komputer kapal yang memelihara penyimpanan informasi besar-besaran, menawarkan aksesibilitas universal di seluruh kapal, dan merespons perintah manusia dengan suara. Sementara itu, kru menghadapi masyarakat yang membuat perang dengan komputer dan peradaban yang diperintah oleh komputer, serta robot yang melahap planet, mengirim orang kembali melalui waktu, atau bermanifestasi dalam bentuk humanoid.
+
+### __1966 Dynamic RAM__
+#### __Robert H. Dennard__ (b. 1932)
+___
+
+Sejak awal, ingatan kecil membatasi apa yang dapat dilakukan komputer. Disebut random access memory (RAM) karena lokasi mana pun dapat dibaca atau ditulis kapan saja, memori itu sangat mahal. Dan karena pemrogram sering kali tidak memiliki cukup memori untuk bekerja, mereka harus membagi program dan data mereka menjadi beberapa segmen, menyalin satu segmen ke dalam memori, memprosesnya, dan kemudian menyimpan hasilnya pada pita.
+
+IBM berkomitmen untuk menyelesaikan desain yang menggunakan enam transistor—desain yang sekarang disebut static random access memory (SRAM)—jadi Dennard mengejar DRAM sebagai proyek sampingan. Akhirnya, pada tahun 1967, IBM mengajukan paten untuk DRAM, yang diberikan pada tahun 1968.
+
+### __1967 Object-Oriented Programming__
+#### __Ole-Johan Dahl__ (1931–2002), __Kristen Nygaard__ (1926–2002)
+___
+
+Di Pusat Komputasi Norwegia, profesor Ole-Johan Dahl dan Kristen Nygaard ingin menggunakan komputer mereka untuk mensimulasikan sistem fisik, khususnya simulasi kapal, dan di sini mereka menemukan bahasa pemrograman yang dikembangkan untuk memungkinkan tugas sederhana dan berulang menjadi kurang. Jadi mereka mengembangkan cara baru untuk memprogram dan bahasa komputer baru, yang mereka sebut SIMULA 67.
+
+Ide kunci dari SIMULA adalah untuk data yang mewakili objek fisik untuk digabungkan bersama dengan kode komputer untuk bertindak pada data tersebut. Misalnya, simulasi lalu lintas mungkin memiliki tipe data yang disebut CAR yang mungkin memiliki variabel untuk lokasi dan kecepatan mobil. Sebuah fungsi khusus mungkin menangani perilaku mobil ketika bertemu lampu lalu lintas. SIMULA mengacu pada masing-masing tipe data ini sebagai "kelas." Kelas berbeda yang disebut TRUCK mungkin mewakili truk. Ide kunci lainnya adalah pewarisan, yang memungkinkan kelas dengan karakteristik bersama untuk diatur dalam hierarki. Jadi TRUCK dan CAR mungkin mewarisi dari kelas abstrak yang disebut KENDARAAN, yang dengan sendirinya mungkin mewarisi dari kelas abstrak lain yang disebut OBJEK.
+
+### __1967 First Cash Machine__
+#### __James Goodfellow__ (b. 1937), __John Shepherd-Barron__ (1925–2010), __Donald Wetzel__ (b. 1921), __Luther George Simjian__ (1905–1997)
+___
+
+Tidak ada satu pun penemu mesin anjungan tunai mandiri (ATM), meskipun sudah banyak orang yang mencoba mengklaimnya. Sebaliknya, itu adalah hasil dari serangkaian inovasi oleh banyak orang selama bertahun-tahun, yang mengarah pada peluncuran penting tahun 1967 dari dua mesin yang bersaing tetapi berbeda di Inggris yang diperkenalkan dalam waktu satu bulan satu sama lain.
+
+Mesin James Goodfellow, yang diperkenalkan oleh Westminster Bank di London, menggunakan kartu plastik dan nomor identifikasi pribadi (PIN) untuk verifikasi dan akses pelanggan. Mesin John Shepherd-Barron, yang diperkenalkan oleh Barclays, menggunakan pemeriksaan radioaktif ringan yang diresapi dengan karbon-14 yang diandalkan ATM untuk dicocokkan dengan nomor identifikasi pelanggan. Sementara mesin Shepherd-Barron mengalahkan Goodfellow ke pasar sebulan (dan dengan demikian menerima banyak kemuliaan "pertama"), itu adalah desain PIN Goodfellow yang macet dan akhirnya melihat komersialisasi dan lisensi massal oleh produsen. Dia juga memiliki paten pertama untuk ATM yang menggunakan PIN untuk otentikasi.
