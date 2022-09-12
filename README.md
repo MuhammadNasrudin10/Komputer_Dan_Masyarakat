@@ -130,3 +130,14 @@ Mouse Engelbart terdiri dari kotak kayu dengan tiga tombol di atas dan dua roda 
 
 *Replika prototipe mouse Engelbart, dibuat oleh insinyur Bill English, 1964*
 
+### __1968 Carterfone Decision__
+#### __Thomas Carter__ (1924-1991)
+___
+
+Thomas Carter, pengusaha Texas dan penemu yang menciptakan Carterfone, perangkat yang menghubungkan radio dua arah ke jaringan telepon, memungkinkan mereka yang berada di tempat yang jauh untuk tetap berhubungan dengan orang lain.
+
+Carterfone bekerja dengan akustik (berlawanan dengan elektrik) menghubungkan radio ke jaringan telepon umum. Setelah operator stasiun melakukan kontak dengan pihak-pihak di kedua ujungnya—operator radio dan orang di ujung telepon yang lain—operator akan menempatkan handset telepon ke dalam dudukan, yang menyelaraskan speaker kecil dengan mikrofon handset dan mikrofon dengan speaker handset. Sakelar yang dioperasikan dengan suara di Carterfone kemudian akan secara otomatis menyalakan pemancar radio ketika orang di telepon berbicara. Ketika orang itu berhenti berbicara, Carterfone akan berhenti mentransmisikan. Mikrofon perangkat kemudian akan mengambil suara apa pun yang diterima oleh penerima radio dan mengirimkannya ke saluran telepon. Hal ini memungkinkan kedua belah pihak untuk mendengar satu sama lain dan berbicara.
+
+![Carterfone](res/Carterfone.jpg)
+
+*Carterfone asli, yang menghubungkan radio seluler ke jaringan telepon*
