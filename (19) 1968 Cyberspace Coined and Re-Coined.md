@@ -1,5 +1,5 @@
 # __1968 *Cyberspace* Coined-and Re-Coined__
-### __Margaret Hamilton__ (b.1936) 
+### __Sussane Ussing_ (1940-1998) __, Carsten Hoff__ (b.1934) __, William Gibson__ (b.1948)
 ___
 Menurut **Oxford Dictionaries Online**, istilah **cyberspace** mengacu pada "lingkungan nosional di mana komunikasi melalui jaringan komputer terjadi." Definisi ini berasal dari penggunaan kata oleh penulis William Gibson dalam cerita pendeknya tahun 1982, "Burning Chrome," di mana ia menggambarkan dunia maya sebagai "halusinasi konsensual yang dialami setiap hari oleh miliaran operator yang sah, di setiap negara" dan "representasi grafis dari data yang diabstraksikan dari bank setiap komputer dalam sistem manusia.”
 
@@ -11,4 +11,4 @@ Wiener mendefinisikan cybernetics dalam bukunya tahun 1948 dengan nama itu sebag
 
 ![Cyberspace](res/Cyberspace.jpg)
 
-*Istilah *cyberspace* berasal dari tahun 19968, ketika seniman Denmark Susanne Ussing dan Carsten Hoff memasukkan kata tersebut kedalam serangkaian karya seni.*
+*Istilah *cyberspace* berasal dari tahun 1968, ketika seniman Denmark Susanne Ussing dan Carsten Hoff memasukkan kata tersebut kedalam serangkaian karya seni.*

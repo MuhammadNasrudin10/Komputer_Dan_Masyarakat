@@ -141,3 +141,53 @@ Carterfone bekerja dengan akustik (berlawanan dengan elektrik) menghubungkan rad
 ![Carterfone](res/Carterfone.jpg)
 
 *Carterfone asli, yang menghubungkan radio seluler ke jaringan telepon*
+
+### __1968 Software Engineering__
+#### __Peter Naur__ (1928-2016) __, Brian Randell__ (b.1936)
+___
+
+Beberapa pionir komputasi mengantisipasi betapa rumitnya perangkat lunak karena mereka sebagian besar membangun perangkat keras. Perangkat lunak bersifat dinamis. Programmer perlu menentukan instruksi dan urutan yang benar, dan urutan tersebut dapat berbeda tergantung dengan data yang ada. Programmer dapat menangkap beberapa kesalahan ketika menulis kode ataupun saat kode sedang dieksekusi.
+
+Pada bulan Oktober 1968, Organisasi Perjanjian Amerika Utara (NATO) mengadakan konferensi kerja untuk mempopulerkan istilah **software engineering** dan menetapkannya sebagai subjek studi akademis yang serius. Software engineering mengidentifikasi lima bidang utama : hubungan antara perangkat lunak dan perangkat keras komputer, desain perangkat lunak, produksi perangkat lunak, distribusi perangkat lunak, dan layanan perangkat lunak.
+
+### __ HAL 9000 Computer__
+#### __Stanley Kubrick__ (1928-1999) __,Arthur C. Clarke__ (1917-2008) __,Douglas Rain (b.1928)__
+___
+
+HAL 9000 (komputer ALgoritmik yang diprogram secara Heuristik ) adalah komputer yang sadar diri dan cerdas secara artifisial yang mengontrol pesawat ruang angkasa. HAL memiliki beberapa keterampilan seperti penalaran dan percakapan, penglihatan buatan, pengenalan wajah, interpretasi emosional, pendapat yang sangat subjektif, dan pemahaman tentang interaksi manusia.
+
+### __1968 First Spacecraft Guided by Computer__
+#### __Margaret Hamilton__ (b.1936)
+___
+
+Pada tanggal 25 Mei 1961, Laboratorium Instrumentasi MIT bekerja sama dengan Badan Penerbangan dan Antariksa Nasional (NASA) untuk merancang dan mengembangkan penerbangan dengan sistem panduan. Sistem tersebut dinamakan dengan Apollo Guidance Computer (AGC) yang memiliki sistem operasi real-time dan 32.768 bit memori inti, dioperasikan pada 43 kilohertz (0,043 megahertz), dan termasuk sirkuit terpadu.
+
+Apollo Guidance Computer (AGC) mampu membantuk membawa astronot Apollo 11 yang berasal dari Amerika menuju ke bulan dan kembali ke bumi dengan sepersejuta daya penyimpanan dan komputasi ponsel modern yang total jaraknya sekitar setengah juta mil.
+
+### __1968 *Cyberspace* Coined-and Re-Coined__
+#### __Sussane Ussing_ (1940-1998) __, Carsten Hoff__ (b.1934) __, William Gibson__ (b.1948)
+___
+
+Berdasarkan *Perpustakaan Online Oxford* menurut William Gibson pada 1982 Cyberspace digambarkan sebagai "halusinasi konsensual yang dialami setiap hari oleh miliaran operator yang sah, di setiap negara" dan "representasi grafis dari data yang diabstraksikan dari bank setiap komputer dalam sistem manusia".
+
+Kata cyberspace sendiri muncul pertama kali pada tahun 1968, ketika seniman visual Denmark, Susanne Ussing dan Carsten Hoff menamai diri mereka *Atelier Cyberspace* dan memasukkan kata itu pada series karya berjudul *Sensory Spaces*. 
+
+### __1968 Mother of All Demos__
+#### __Douglas C. Engelbart__ (1925-2013) 
+___
+
+Douglas Engelbart, seorang penemu dan insinyur dibidang interaksi manusia-komputer dikenal juga sebagai *Mother of All Demos* karena secara terbuka mendemonstrasikan sistem komputer yang memungkinkan berbagi pengetahuan, pembuatan konten, dan kolaborasi pribadi, yang belum pernah dilihat siapa pun sebelumnya. 
+
+*Mother of All Demos* menampilkan aplikasi alat dan konsep yang sekarang dikenal sebagai hypertext, pengolah kata, pengeditan real-time, berbagi file, telekonferensi, beberapa tampilan jendela, dan mouse. *Mother of All Demos* juga menginspirasi generasi penemuan teknologi selanjutnya, seperti mempengaruhi desain dan antarmuka Apple Macintosh.
+
+### __1968 Dot Matrix Printer__
+#### __Rudolf Hell__ (1901-2002) __, Fritz Karl Preikschat__ (1910-1994)
+___
+
+Printer dot matrix yaitu printer yang menggunakan sekelompok titik yang dapat dikontrol dengan jarak dekat untuk membentuk huruf individual. Kualitas dari cetakan printer dot matrix sangat bergantung pada jumlah pin yang digunakan untuk mentransfer gambar. Kemampuan dari printer dot matrix yaitu memiliki 7-24 jumlah pin, resolusi maksimum sekitar 240 dpi, dan kecepatan sekitar 50-500 karakter per detik(cps).
+
+Ada beberapa jenis printer dot matrix yang memiliki mekanisme berbeda, seperti 1) Printer pelepasan elektrostatis (mencetak kertas perak), 2) printer termal (mencetak penerimaan kartu kredit), 3) printer injekt, dan 4) printer 3-D.
+
+![Printer Wiredot](res/Printer-Wiredot.jpg)
+
+*Printer Wiredot, diproduksi oleh OKI Electric Industry Co., Ltd., 1968.*
